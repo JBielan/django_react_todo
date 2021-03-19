@@ -2,7 +2,7 @@ certifi==2019.9.11
 coverage==4.5.4
 Django==2.2.5
 django-filter==2.2.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 Markdown==3.1.1
 Pygments==2.4.2
 pytz==2019.3
